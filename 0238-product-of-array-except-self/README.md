@@ -3,6 +3,6 @@
 - Platform: LeetCode
 - Language: cpp
 - Difficulty: Medium
-- Runtime: 1 ms
-- Memory: 40 MB
+- Runtime: 0 ms
+- Memory: 40.1 MB
 - Problem: https://leetcode.com/problems/product-of-array-except-self/
